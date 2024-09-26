@@ -60,7 +60,7 @@
 
 .places__text {
   width: calc(100% - 32px);
-  margin: 0 auto;
+  margin: 50px auto;
 }
 
 .places__paragraph {
